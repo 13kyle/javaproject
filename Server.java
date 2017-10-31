@@ -138,7 +138,7 @@ public class Server {
 		String[] parsedInput;
 
 		while (true) {
-			// second try-catch place in while so if client closes connection
+			// second try-catch placed in while so if client closes connection
 			// server won't stop running
 			try {
 				System.out.println("************************************");
