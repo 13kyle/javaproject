@@ -34,7 +34,7 @@ import java.net.*;
 import java.io.*;
 import java.util.Scanner;
 
-public class Client {
+public abstract class Client {
 	// socket
 	private static Socket cSocket = null;
 
