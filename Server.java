@@ -11,7 +11,7 @@
 import java.net.*;
 import java.io.*;
 
-public abstract class Server {
+public class Server {
 	// sockets
 	private static ServerSocket servSocket = null;
 	private static Socket cSocket = null;
